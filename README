@@ -1,0 +1,7 @@
+A script for fetching data via the Google Analytics API
+
+Uses the Garb gem
+
+Fetches the top 50,000 search terms referrals from Google in chunks of 10,000
+Puts them in a series of five csv files
+
